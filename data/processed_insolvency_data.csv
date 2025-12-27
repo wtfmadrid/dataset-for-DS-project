@@ -1,0 +1,73 @@
+naics_code,industry,insolvencies,year
+11,"Agriculture, Forestry, Fishing and Hunting",62,2022
+21,Mining and Oil and Gas Extraction,23,2022
+22,Utilities,4,2022
+23,Construction,358,2022
+31,Manufacturing,69,2022
+32,Manufacturing,41,2022
+33,Manufacturing,89,2022
+41,Wholesale Trade,122,2022
+44,Retail Trade,220,2022
+45,Retail Trade,98,2022
+48,Transportation and Warehousing,199,2022
+49,Transportation and Warehousing,25,2022
+51,Information and Cultural Industries,44,2022
+52,Finance and Insurance,27,2022
+53,Real Estate and Rental and Leasing,93,2022
+54,"Professional, Scientific and Technical Services",177,2022
+55,Management of Companies and Enterprises,70,2022
+56,"Administrative and Support, Waste Management and Remediation Services",122,2022
+61,Educational Services,28,2022
+62,Health Care and Social Assistance,67,2022
+71,"Arts, Entertainment and Recreation",73,2022
+72,Accommodation and Food Services,423,2022
+81,Other Services (except Public Administration),179,2022
+91,Public Administration,8,2022
+11,"Agriculture, Forestry, Fishing and Hunting",63,2023
+21,Mining and Oil and Gas Extraction,24,2023
+22,Utilities,7,2023
+23,Construction,500,2023
+31,Manufacturing,94,2023
+32,Manufacturing,77,2023
+33,Manufacturing,142,2023
+41,Wholesale Trade,187,2023
+44,Retail Trade,334,2023
+45,Retail Trade,129,2023
+48,Transportation and Warehousing,220,2023
+49,Transportation and Warehousing,37,2023
+51,Information and Cultural Industries,88,2023
+52,Finance and Insurance,53,2023
+53,Real Estate and Rental and Leasing,110,2023
+54,"Professional, Scientific and Technical Services",277,2023
+55,Management of Companies and Enterprises,83,2023
+56,"Administrative and Support, Waste Management and Remediation Services",174,2023
+61,Educational Services,42,2023
+62,Health Care and Social Assistance,76,2023
+71,"Arts, Entertainment and Recreation",116,2023
+72,Accommodation and Food Services,584,2023
+81,Other Services (except Public Administration),283,2023
+91,Public Administration,4,2023
+11,"Agriculture, forestry, fishing and hunting",74,2024
+21,"Mining, quarrying, and oil and gas extraction",16,2024
+22,Utilities,9,2024
+23,Construction,637,2024
+31,Manufacturing,120,2024
+32,Manufacturing,84,2024
+33,Manufacturing,154,2024
+41,Wholesale trade,249,2024
+44,Retail trade,266,2024
+45,Retail Trade,271,2024
+48,Transportation and warehousing,397,2024
+49,Transportation and Warehousing,29,2024
+51,Information and cultural industries,112,2024
+52,Finance and insurance,74,2024
+53,Real estate and rental and leasing,166,2024
+54,"Professional, scientific and technical services",373,2024
+55,Management of companies and enterprises,126,2024
+56,"Administrative and support, waste management and remediation services",264,2024
+61,Educational services,61,2024
+62,Health care and social assistance,126,2024
+71,"Arts, entertainment and recreation",108,2024
+72,Accommodation and food services,716,2024
+81,Other services (except public administration),320,2024
+91,Public administration,18,2024
